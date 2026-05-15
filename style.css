@@ -12,3 +12,17 @@ h1 {
 p {
     color: #666666;
 }
+nav {
+    background-color: #333333;
+    padding: 15px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+}
+
+nav a:hover {
+    color: #ffcc00;
+}
